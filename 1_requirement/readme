@@ -1,1 +1,55 @@
+# Requirements
+## Introduction
+  The aim of the project is to calaculate the numbers .The project has been used for addition,subtraction,division,multiplication.
+## Research
+It is useful for students and everyone to calaculate as soon as possible and it saves our timr
+
+The main goal of our project is to provide various types of operations is used
+   It should fulfill almost all the process for calaculation
+
+## Features
+#### addition
+#### subtraction
+#### division
+#### multiplication
+## Benefits
+#### Provides flexibility
+#### For better performance
+#### User Friendly
+#### Can Select the operations as per choice
+### Defining Our System
+### Explanation
+  
+
+
+## Who
+### * calculator
+
+## What
+*   To bulid a system to work the operations
+
+## When
+*   When user wants to carry out the tasks quickly and this reduces manual work and saves time
+
+### Detail requirements
+
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| 1 | TO Work out addition operations| Techincal | IMPLEMENTED | 
+| 2 | TO Work out subtraction operations| Techincal | IMPLEMENTED |
+| 3 | TO Work out division operations| Techincal | IMPLEMENTED |
+| 4 | TO Work out multiplication operations| Techincal | IMPLEMENTED |
+
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|1|To display the addition value
+|2|To display the subtraction value
+|3| To display the division value
+|4 |To display the multiplication value
+<!--
+Refernces Have refered google for some part of coding and information
+-->
 
